@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1595855495 source:c:\users\sthembiso\documents\esg\learnc101\assignment2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"ESD.h"
+	<math.h>
+
+1594028564 c:\users\sthembiso\documents\esg\learnc101\assignment2\esd.h
+	<windows.h>
+
+1595855496 source:c:\users\sthem\documents\esg\learnc101\assignment2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"ESD.h"
+	<math.h>
+
+1594028566 c:\users\sthem\documents\esg\learnc101\assignment2\esd.h
+	<windows.h>
+
+1595855496 source:d:\documents\esg\learnc101\assignment2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"ESD.h"
+	<math.h>
+
+1594028566 d:\documents\esg\learnc101\assignment2\esd.h
+	<windows.h>
+
+1670743679 source:c:\users\sthembiso musana\documents\programming\c-and-cpp\assignment2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"ESD.h"
+	<math.h>
+
+1670743679 c:\users\sthembiso musana\documents\programming\c-and-cpp\assignment2\esd.h
+	<windows.h>
+
